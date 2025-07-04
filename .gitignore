@@ -1,0 +1,17 @@
+# Binaries
+*.exe
+*.out
+*.o
+*.a
+*.so
+
+.env
+
+# Dependency directories
+vendor/
+
+# OS files
+.DS_Store
+
+# Go workspace files
+go.sum
